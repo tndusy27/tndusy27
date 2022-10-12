@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🙌Su Yeon's GitHub
-<div align=center>
+<div align = center>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tndusy27&show_icons=true&theme=radical)
+  
+</div>
+<div align = center>
 ### 💗 Skills 💗
 ![badges](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![badges](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
