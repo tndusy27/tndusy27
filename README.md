@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align = center>
 ## 🙌Su Yeon's GitHub
+<div align = center>
+
 ### Hi there 👋
 ### 😎 Contect tndusy527@gmail.com
 
