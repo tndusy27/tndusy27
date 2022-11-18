@@ -1,5 +1,10 @@
 
 ### Hi there 👋
+### 😎 Contect
+tndusy527@gmail.com
+
+### 🙌 Welcome to my Blog
+> [Su Yeon's Blog] (https://velog.io/@tndusy27)
 
 <!--
 **tndusy27/tndusy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
