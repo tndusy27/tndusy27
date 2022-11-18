@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  🙌Su Yeon's GitHub
+##  Su Yeon's GitHub
 <div align = center>
  
  
