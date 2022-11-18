@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## 🙌Su Yeon's GitHub
 <div align = center>
- ### Hi there 👋
-### 😎 Contect
-tndusy527@gmail.com
+ 
+### Hi there 👋
+### 😎 Contect tndusy527@gmail.com
 
 ### 🙌 Welcome to my Blog
 > [Su Yeon's Blog] (https://velog.io/@tndusy27)
